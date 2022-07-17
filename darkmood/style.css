@@ -1,0 +1,228 @@
+.navbar
+{
+    /* padding-left: 885px; */
+    /* display: flex;
+    flex-direction: row-reverse; */
+    color:black;
+    color: yellow;
+    margin: 10px;
+    margin-top: 30px;
+    
+    
+    
+}
+
+/* .home
+{
+    margin: 10px;
+}
+
+.about
+{
+    margin: 10px;
+}
+.servises
+{
+    margin: 10px;
+}
+.contant
+{
+    margin: 10px;
+} */
+.split
+{
+    /* margin: 10px; */
+    display: flex;
+    flex-direction: row-reverse;
+    color:yellow;
+    float: right;
+    padding: 1px 16px;
+    
+}
+
+.container
+{
+    padding-left: 100px;
+    padding-top: 40px;
+    color: yellow;
+    font-size: 26px;
+   
+
+}
+
+
+body
+{
+    background-color: #172632;
+}
+
+
+.photo
+{
+    float: center;
+    margin-left: 70%;
+    margin-top: -30%;
+    padding-right: 30px;
+}
+.foter
+{
+    color: yellow;
+    display: flex;
+}
+
+.fotertwo
+{
+    /* float: left; */
+     /* margin-bottom: 10px; */
+    color: yellow;
+    padding-left: 885px;
+    padding-top: 10px;
+    
+}
+
+.foterthree
+{
+    color: yellow;
+    padding-left: 85px;
+
+}
+
+/* .column {
+    float: left;
+    width: 27%;
+   height: 300px;
+   color: white;
+} */
+p {
+    font-size:20px;
+    font-weight:bold;
+    color: yellow;
+}
+
+.dark-mode {
+    background-color:white;
+    color:yellow;
+}
+.moon
+{
+    margin-top: 30px;
+}
+
+/* .btn
+{
+    border-radius: 8px;
+    text-align: center;
+    background-color: #4CAF50;
+} */
+.botunone
+{
+    background-color:rgb(190, 190, 87); /* Green */
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 150px;
+    border-radius: 8px;
+    
+
+}
+
+.botunone:hover
+{
+    background-color:black;
+    color:yellow;
+}
+.botuntwo
+{
+   cursor: pointer;
+    background-color:black; /* Green */
+    border: none;
+    color:yellow;
+    padding: 15px ;
+    margin: 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    width: 150px;
+    border-radius: 8px;
+    
+}
+.botuntwo:hover
+{
+    background-color:yellow;
+    color:black;
+}
+
+footer{
+    display: flex;
+    background: #172632;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
+    width: 100%x;
+    height: 141px;
+    margin-top: 128px;
+    align-items: center;
+}
+.fot1{
+/* font-family: 'Poppins'; */
+color: rgba(25, 25, 25, 0.62);
+text-align: center;
+padding-left: 70px;
+/* color: #FFFFFF; */
+}
+
+#quick{
+  
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    color: #FFFFFF;
+}
+#info
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    color: #FFFFFF;
+
+}
+
+#footerthre
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    color: #FFFFFF; 
+    padding-right: 30px;
+   
+}
+#footerfour
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    color: #FFFFFF; 
+    padding-right: 30px;
+
+}
+
+
+.fot2{
+text-align: center;  
+padding-left: 250px;  
+padding-right: 200px;
+font-family: 'Inter';
+color: #FFFFFF;
+text-shadow: 7;
+}
+
+i{
+    padding: 7px;   
+}
+
+.fot3{
+text-align: center;    
+font-family: 'Inter';
+color: #FFFFFF;
+padding-right:50px;
+padding-left:90px;
+}
