@@ -10,12 +10,12 @@ In this lab you are required to use your knowledge in html and css to implement 
 the winning group gets a *discount* in the **today's** homework
 
 Group A
-https://www.figma.com/file/aKTryy1VbL341pBQHv77y7/Motivato-Community
+https://www.figma.com/file/PSVZ2xE2kG3FDi7zFaevaO/trade-Community
 
 ![preview image](./GroupA.png)
 
 Group B
-https://www.figma.com/file/PSVZ2xE2kG3FDi7zFaevaO/trade-Community
+https://www.figma.com/file/aKTryy1VbL341pBQHv77y7/Motivato-Community
 ![preview image](./GroupB.png)
 
 Remember to have fun :)
