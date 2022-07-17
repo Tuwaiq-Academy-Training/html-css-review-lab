@@ -1,139 +1,151 @@
-body{
-    background: #FAFAFA;
-    border-radius: 20px;
-    height: 95%;
-    width: 89%;
+body {
+	background: #fafafa;
+	border-radius: 20px;
+	height: 95%;
+	width: 89%;
 }
-.container1{
-    height: 97%;
-	width: 97%;  
-}
-
-a{
-    text-decoration: none;
-    color: black;
-}
-.b1,.b2{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 0px 0px 0px 1px;
-    width: 150px;
-    height: 75px;
-    background: linear-gradient(104.52deg, #05293F -11.68%, #099FA3 113.61%);
-    border-radius: 11px;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-.p1,.p3{
-width: 150px;
-height: 44px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 169%;
-text-align: center;
-color: #FFFFFF;
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.line{
-    display: flex;
-    gap: 50px;
-    align-items: center;
-    cursor: pointer;
-}
-ul.line{
-padding: 10px 15px;
-list-style: none;
-font-size: 25px;
+.container1 {
+	height: 97%;
+	width: 97%;
 }
 
-#Home{
-    color:#099FA3 ;
+a {
+	text-decoration: none;
+	color: black;
 }
-.container2{
-    position: relative;
-    top: 180px;
-    left: 120px;
-    font-size: 40px;
+.b1,
+.b2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0px 0px 0px 1px;
+	width: 150px;
+	height: 75px;
+	background: linear-gradient(104.52deg, #05293f -11.68%, #099fa3 113.61%);
+	border-radius: 11px;
+	flex: none;
+	order: 0;
+	flex-grow: 0;
 }
-.img2{
-position: absolute;
-width: 718px;
-height: 488px;
-left: 635px;
-top: 268px;
+.p1,
+.p3 {
+	width: 150px;
+	height: 44px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 169%;
+	text-align: center;
+	color: #ffffff;
+	flex: none;
+	order: 0;
+	flex-grow: 0;
 }
-.sp1{
-    color:#099FA3;
+.line {
+	display: flex;
+	gap: 70px;
+	align-items: center;
+	cursor: pointer;
 }
-.sp2{
-    font-style: italic;
-    font-weight: lighter;
+ul.line {
+	padding: 10px 15px;
+	list-style: none;
+	font-size: 25px;
 }
-.p2{
-   position: relative;
-width: 461px;
-height: 68px;
-left: 10px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 169%;
-color: rgba(0, 0, 0, 0.44);
+#Home {
+	color: #099fa3;
 }
-.container3{
-    position: relative;
-    top: 130px;
-    left: 125px;
-    font-size: 40px;
+.container2 {
+	position: relative;
+	top: 180px;
+	left: 120px;
+	font-size: 40px;
 }
-.b2{
-    position: relative;
-    left: 10px;
+.img2 {
+	position: absolute;
+	width: 718px;
+	height: 488px;
+	left: 635px;
+	top: 268px;
 }
-p{
-color: #FAFAFA;
+.sp1 {
+	color: rgba(0, 121, 124, 1);
 }
-.container4{
-    position: absolute;
-    bottom: -230px;
-    width: 100%;
-height: 120px;
-background: #00797C;
-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
+.sp2 {
+	font-style: italic;
+	font-weight: lighter;
+}
+.p2 {
+	position: relative;
+	width: 461px;
+	height: 68px;
+	left: 10px;
 
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 169%;
+	color: rgba(0, 0, 0, 0.44);
 }
-.end{
-    display: flex;
-      justify-content: space-around;
-      align-items:center;
-      text-align: center;
+.container3 {
+	position: relative;
+	top: 130px;
+	left: 125px;
+	font-size: 40px;
 }
-.center{
-    line-height: 5px;
+.b2 {
+	position: relative;
+	left: 10px;
 }
-.end1{
-    margin-top: 15px;
-
+p {
+	color: #fafafa;
 }
-.ig1,.ig2,.ig3{
-    position: relative;
-    width: 30px;
-    height: 30px;
+.container4 {
+	position: absolute;
+	top: 900px;
+	width: 100%;
+	background: #00797c;
 }
-.left{
-    position: relative;
-    left: 100px;
+.end {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
 }
-.img1{
-    position: relative;
-    left: -50px;
+.center {
+	line-height: 5px;
+}
+.end1 {
+	margin-top: 15px;
+}
+.ig1,
+.ig2,
+.ig3 {
+	position: relative;
+	width: 30px;
+	height: 30px;
+}
+.left {
+	position: relative;
+	left: 100px;
+}
+.img1 {
+	position: relative;
+	left: -50px;
+}
+#p3,
+#p4,
+#p5 {
+	font-family: 'Poppins';
+	font-style: normal;
+	line-height: 117%;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.62);
+}
+#p2 {
+	color: #ffffff;
 }
