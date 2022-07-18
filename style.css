@@ -1,0 +1,57 @@
+body {
+    background-color:#172632;
+    
+  }
+
+
+ div{ 
+    float: right;
+}
+
+a{
+    color: #FBC901;
+}
+
+  
+  
+  .topnav a {
+    float: left;
+    color:#FBC901;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  img{
+    
+    position: absolute;
+    width: 500px;
+    
+    left: 700px;
+    top: 100px;
+    
+  }
+  button {
+    background-color: #FBC901;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+    btnmore{
+    background-color: #172632;
+    border: none;
+    color: #FBC901;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+          
+ 
+  
